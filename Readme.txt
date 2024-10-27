@@ -1,0 +1,1 @@
+Simple Authentication and voting system code in MATLAB, make sure to import the xlsx file into your MATLAB project for the database. pls leave a follow to the profile.:)
